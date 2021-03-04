@@ -17,5 +17,5 @@ Category Structure
 * data: data for experiment
 
 * how to run the approach
-  * com/taskRecommendation/TrainAndPredict contains method for training the model (trainModel()) and conducting the prediction (conductPrediction());
-  * we have already prepare the training data, i.e., data/output/train_predict/train-total, one can directly run the com/taskRecommendation/TrainAndPredict/conductPrediction() to conduct the task recommendation; the detailed recommendation results will be generated and stored in data/output/train_predict/result-total, and the approach performance will be generated and stored in data/output/train_predict/performance-total;
+  * com/taskRecommendation/TrainAndPredict contains method for training the model (trainModel()) and conducting the prediction (conductPrediction())
+  * we have already prepare the training data, i.e., data/output/train_predict/train-total, one can directly run the com/taskRecommendation/TrainAndPredict/conductPrediction() to conduct the task recommendation; the detailed recommendation results will be generated and stored in data/output/train_predict/result-total, and the approach performance will be generated and stored in data/output/train_predict/performance-total
